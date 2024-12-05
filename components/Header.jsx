@@ -12,7 +12,6 @@ const Header = () => {
                 <Link href="#">
                     <img className="text4xl font-semibold" src="/assets/lion3.svg" alt="logo" width="150px"/>
                 </Link>
-
                 
                 {/* desktop nav & hire me button */}
                 <div className="hidden xl:flex items-center gap-8">
